@@ -1,0 +1,7 @@
+{
+  "name": "AI Study Assistant",
+  "description": "A lightweight AI-powered study tool to analyze lecture notes, generate summaries, flashcards, quizzes, mind maps, and PowerPoint slides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
